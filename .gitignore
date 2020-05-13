@@ -1,2 +1,4 @@
 .vscode/*.*
+certificate/*
+node_modules/*
 prop/*.*
