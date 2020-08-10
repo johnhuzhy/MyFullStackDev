@@ -1,0 +1,51 @@
+body {
+  background-color: #eee;
+}
+div {
+  margin: 100px 0 0 300px;
+}
+
+.tblmain {
+  width: 300px;
+  height: 300px;
+  border: 2px solid brown;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.display {
+  width: 280px;
+  height: 45px;
+  border: 1px bold olivedrab;
+  border-radius: 4px;
+  text-align: right;
+  font-size: 30px;
+  font-weight: bold;
+  color: orangered;
+}
+
+.btn {
+  width: 70px;
+  height: 45px;
+  border-radius: 4px;
+  font-size: 25px;
+}
+
+.btn2 {
+  width: 145px;
+  height: 45px;
+  border-radius: 4px;
+  font-size: 25px;
+}
+
+.btn:hover,
+.btn2:hover {
+  color: whitesmoke;
+  background-color: olivedrab;
+}
+
+.btn:active,
+.btn2:active {
+  color: whitesmoke;
+  background-color: orangered;
+}
