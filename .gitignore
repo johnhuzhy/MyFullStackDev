@@ -1,4 +1,4 @@
 .vscode/*.*
+*/node_modules/*
 start1st/certificate/*
-node_modules/*
 start1st/prop/*.*
