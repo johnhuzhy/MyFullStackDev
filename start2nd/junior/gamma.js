@@ -1,3 +1,6 @@
+/**
+ * Listener Event
+ */
 const geektime = require("./gammaLib");
 geektime.addListener("new lesson", (res) => {
   console.log("welcome new lesson!", res);

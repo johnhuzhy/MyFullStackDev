@@ -1,0 +1,25 @@
+{
+  "name": "start2nd",
+  "version": "1.0.0",
+  "description": "course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhuzhy/MyFullStackDev.git"
+  },
+  "keywords": [
+    "fullstack"
+  ],
+  "author": "johnhuzhy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhuzhy/MyFullStackDev/issues"
+  },
+  "homepage": "https://github.com/johnhuzhy/MyFullStackDev#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
