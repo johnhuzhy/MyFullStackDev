@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Iframeテスト</title>
+        <link rel="stylesheet" href="./main.css" />
+        <script type="text/javascript" src="./jquery-3.5.1.js"></script>
+        <script type="text/javascript" src="./main.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <a href="#"><span>August 18th</span></a>
+                <nav>
+                    <a class="toppage" href="top">トップページ</a>
+                    <a class="todo" href="#">TODOリスト</a>
+                    <a class="info" href="#">個人情報更新</a>
+                </nav>
+            </div>
+        </header>
+        <main id="mainArea">
+            <iframe src="./base.html?a=amz&b=bll&c=cpb" name="main" class="mainframe" scrolling="no"> </iframe>
+        </main>
+        <footer>
+            <div class="container">
+                <p>Copyright @ 2020 JohnHuzhy.com</p>
+            </div>
+        </footer>
+    </body>
+</html>
