@@ -22,7 +22,7 @@
   "homepage": "https://github.com/johnhuzhy/MyFullStackDev#readme",
   "dependencies": {
     "dateformat": "^4.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "glob": "^7.1.6"
   },
   "devDependencies": {
